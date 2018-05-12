@@ -1,0 +1,41 @@
+_repo: My-Book-of-Favourite-Fairy-Tales_15145
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Harbour, Jennie
+    birthdate: 1893
+    deathdate: 1959
+    gutenberg_agent_id: '26799'
+    url: http://www.gutenberg.org/2009/agents/26799
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vredenburg, Edric
+    alias: Vredenburg, E. (Edric)
+    birthdate: 1860
+    gutenberg_agent_id: '5877'
+    url: http://www.gutenberg.org/2009/agents/5877
+description: ''
+gutenberg_bookshelf:
+- Children's Anthologies
+- Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2005-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: The Old, Old Stories -- The Goose Girl -- Little Snow-White -- Cinderella
+  -- Princess Goldenhair -- Little Red Riding Hood -- The White Fawn -- Hansel and
+  Grethel -- Snow-White and Rose-Red -- The Sleeping Beauty -- Prince Chéri -- The
+  White Cat -- Bluebeard -- Beauty and the Beast -- Tufty Riquet -- Thumbling.
+title: My Book of Favourite Fairy Tales
+url: http://www.gutenberg.org/ebooks/15145
